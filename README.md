@@ -1,2 +1,2 @@
-# placement cell,https://virtual-placement-cell.netlify.app/
+# placement cell,https:
 
