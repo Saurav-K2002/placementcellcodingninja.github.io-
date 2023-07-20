@@ -1,0 +1,55 @@
+.but2{
+    border:none;
+    font-size:100%;
+    color:white;
+    background-color:black;
+    margin-bottom:10%;
+}
+.but1{
+    border:none;
+    font-size:100%;
+    color:white;
+    background-color:cadetblue;
+    margin-bottom:10%;
+}
+.but2:hover{
+    background-color: cadetblue;
+}
+.but1:hover{
+    background-color: cadetblue;
+}
+.inp{
+    margin-top: 1%;
+    padding:4% 2%;
+    width:300%;
+    height:20px;
+    border-radius:12px;}
+.Heading{
+    font-size: 300%;
+    margin: 6% 0%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    font-family:sans-serif;
+    font-weight: 600;
+}
+.title{
+    font-size: 150%;
+    font-family:sans-serif;
+    font-weight: 500;
+    margin-right:"2%"
+}
+.BODY{
+    margin: 1% 1%;
+    padding:1%;
+    width: 90%;
+    overflow: auto;
+    border: rgb(154, 145, 83) dashed;
+    word-break: break-all;
+    border-radius: 15px;
+    border-width: 3px;
+    font-size: 120%
+}
+.icon{
+    margin-right: 2px;
+}
